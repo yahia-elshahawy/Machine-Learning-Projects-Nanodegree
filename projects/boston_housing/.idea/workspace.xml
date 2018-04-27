@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d7fc630-0a84-49f7-ae61-36bfdcc63d64" name="Default" comment="" />
+    <list default="true" id="14c4070f-d6c7-4a51-b74b-1ede4cb0a19b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bayesian_Inference.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
+      <file leaf-file-name="boston_housing.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/boston_housing.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="75" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -25,12 +25,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/PycharmProjects/test/test.py" />
-        <option value="$PROJECT_DIR$/Bayesian_Inference.ipynb" />
+        <option value="$PROJECT_DIR$/visuals.py" />
+        <option value="$PROJECT_DIR$/boston_housing.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="44" />
     <option name="width" value="1289" />
@@ -46,13 +46,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="naive_bayes_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="naive_bayes_tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="naive_bayes_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="naive_bayes_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="smsspamcollection" type="462c0819:PsiDirectoryNode" />
+              <item name="boston_housing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boston_housing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -61,8 +56,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../boston_housing" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,8 +71,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="naive_bayes_tutorial" type="JupiterNotebook" factoryName="Jupyter Notebook">
-      <module name="naive_bayes_tutorial" />
+    <configuration name="boston_housing" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="boston_housing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -99,28 +93,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d7fc630-0a84-49f7-ae61-36bfdcc63d64" name="Default" comment="" />
-      <created>1524026896919</created>
+      <changelist id="14c4070f-d6c7-4a51-b74b-1ede4cb0a19b" name="Default" comment="" />
+      <created>1524810458427</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524026896919</updated>
+      <updated>1524810458427</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-4" width="1311" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="44" width="1289" height="668" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24561404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25368503" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3113879" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32882884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -134,73 +127,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
+    <entry file="file://$PROJECT_DIR$/boston_housing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
+    <entry file="file://$PROJECT_DIR$/boston_housing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
+    <entry file="file://$PROJECT_DIR$/boston_housing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/test/test.py">
+    <entry file="file://$PROJECT_DIR$/visuals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bayesian_Inference.ipynb">
+    <entry file="file://$PROJECT_DIR$/boston_housing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="25" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
