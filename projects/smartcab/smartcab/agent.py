@@ -38,15 +38,15 @@ class LearningAgent(Agent):
         ## DONE  ##
         ###########
 		
-        a = .01
+        a = .01 # decaying parameter
 		
         # Update epsilon using a decay function of your choice
         #self.epsilon = self.epsilon - 0.05  # pre-optimization linear decay function
-        self.epsilon = math.exp(-1 * a * self.trials)
+        self.epsilon = math.exp(-1 * a * self.trials) # post-optimization non-linear decay function
         
 		# Update additional class parameters as needed
         self.trials += 1		
-        print "Trial Number {}".format(self.trials)
+        print "Trial Number {}".format(self.trials) #trace number of trials made
 
         # If 'testing' is True, set epsilon and alpha to 0
         if testing:
